@@ -1,0 +1,24 @@
+{
+  "name": "claninfo",
+  "version": "1.0.0",
+  "description": "롤클랜 전적검색사이트",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimoon1/claninfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimoon1/claninfo/issues"
+  },
+  "homepage": "https://github.com/kimoon1/claninfo#readme"
+}
